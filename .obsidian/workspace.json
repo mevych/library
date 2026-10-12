@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6b534d0962dd152a",
+        "id": "a829c331dc04a4b7",
         "type": "tabs",
         "children": [
           {
-            "id": "30fbceaecb737fa5",
+            "id": "f68a02390f69957d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "Технология разработки программного обеспечения/Без названия.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Без названия"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Теория вероятностей и математическая статистика/Комбинаторика.md",
+                "file": "Технология разработки программного обеспечения/Без названия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,11 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30fbceaecb737fa5",
+  "active": "f68a02390f69957d",
   "lastOpenFiles": [
     "README.md",
     "Теория вероятностей и математическая статистика/Комбинаторика.md",
+    "Технология разработки программного обеспечения/Без названия.md",
     "Теория вероятностей и математическая статистика/Понятие событий, классическое понятие вероятности.md",
+    "Технология разработки программного обеспечения",
     "Теория вероятностей и математическая статистика",
     "Добро пожаловать.md"
   ]
